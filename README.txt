@@ -1,0 +1,1 @@
+Code to do some analysis of the setting of care audit data.  Produces aggregated figures and plots.  Requires audit data, a ward code look up table and a manually created outlier lookup table to group up user inputs.

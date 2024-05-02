@@ -1,0 +1,8 @@
+# any png files
+*.png
+
+# any excel files
+*.xlsx
+
+# any csv files
+*.csv
